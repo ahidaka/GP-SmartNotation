@@ -20,7 +20,7 @@ EnOcean GP (Generic Profile) をゲートウェイ等の機器で実装する場
 
 ### 自動生成GP識別文字列プロファイル名
 
-![ProfileString](profileString.png)
+![ProfileString](ProfileString.png)
 
 ### Sensor type and Shortcut name
 
